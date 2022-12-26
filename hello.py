@@ -1,2 +1,4 @@
 print("hello")
-pritn("add new content")
+print("add new content")
+
+print("add2")
